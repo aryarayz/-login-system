@@ -1,3 +1,5 @@
 cmake
 wheel
 face_recognition
+flask==2.1.2
+gunicorn
